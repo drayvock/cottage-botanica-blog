@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drayvock.github.io/cottage-botanica-blog/sitemap.xml
+Sitemap: https://cottagebotanica.com/sitemap.xml
