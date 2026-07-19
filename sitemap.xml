@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/glowing-fungi-stardust-lichen-products-summer-sanctuary/</loc>
+    <lastmod>2026-07-19</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/summer-cottagecore-essentials-botanical-products/</loc>
@@ -27,10 +31,25 @@
     <loc>https://cottagebotanica.com/about/</loc>
   </url>
   <url>
-    <loc>https://cottagebotanica.com/tags/cottagecore-decor/</loc>
+    <loc>https://cottagebotanica.com/tags/cottagecore/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/botanical-art/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/forest-design/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/nature-lover-gifts/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/soft-pastel/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/ethereal-art/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/cottagecore-decor/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/summer-decor/</loc>
@@ -39,16 +58,10 @@
     <loc>https://cottagebotanica.com/tags/vintage-style/</loc>
   </url>
   <url>
-    <loc>https://cottagebotanica.com/tags/nature-lover-gifts/</loc>
-  </url>
-  <url>
     <loc>https://cottagebotanica.com/tags/vintage-products/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/nature-gifts/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/cottagecore/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/botanical-decor/</loc>
@@ -64,8 +77,5 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/nature-lovers/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/soft-pastel/</loc>
   </url>
 </urlset>
