@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-07-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/how-to-safely-identify-and-forage-glowing-fungi-in-the-wild/</loc>
+    <lastmod>2026-07-22</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/glowing-fungi-stardust-lichen-products-summer-sanctuary/</loc>
@@ -29,6 +33,24 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/about/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/foraging/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/bioluminescent-fungi/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/wildlife-safety/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/botanical-identification/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/naturalist-guide/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/fungi-identification/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/cottagecore/</loc>
