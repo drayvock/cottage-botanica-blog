@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-07-26</lastmod>
+    <lastmod>2026-07-29</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/how-to-safely-identify-and-forage-bioluminescent-lichen-in-the-wild/</loc>
+    <lastmod>2026-07-29</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/how-to-safely-identify-and-forage-bioluminescent-fungi-and-lichen/</loc>
@@ -37,6 +41,24 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/about/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/bioluminescent-lichen/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/foraging-guide/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/wildlife-identification/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/naturalist-tips/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/botanical-safety/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/forest-exploration/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/foraging/</loc>
