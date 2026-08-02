@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-08-02</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/cultural-symbolic-meanings-luminous-fern-botanical-lore-cottagecore/</loc>
+    <lastmod>2026-08-02</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/how-to-safely-identify-and-forage-bioluminescent-lichen-in-the-wild/</loc>
@@ -41,6 +45,24 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/about/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/cottagecore/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/botanical-lore/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/luminous-fern/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/symbolism/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/natural-aesthetics/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/botanical-symbolism/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/bioluminescent-lichen/</loc>
@@ -86,9 +108,6 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/fungi-identification/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/cottagecore/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/botanical-art/</loc>
