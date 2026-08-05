@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/how-to-identify-and-safely-forage-bioluminescent-lichen-in-the-wild/</loc>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/cultural-symbolic-meanings-luminous-fern-botanical-lore-cottagecore/</loc>
@@ -47,6 +51,24 @@
     <loc>https://cottagebotanica.com/about/</loc>
   </url>
   <url>
+    <loc>https://cottagebotanica.com/tags/bioluminescent-lichen/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/foraging-in-the-wild/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/botanical-identification/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/cottagecore-nature/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/natural-foraging/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/wild-lichen/</loc>
+  </url>
+  <url>
     <loc>https://cottagebotanica.com/tags/cottagecore/</loc>
   </url>
   <url>
@@ -63,9 +85,6 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/botanical-symbolism/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/bioluminescent-lichen/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/foraging-guide/</loc>
@@ -102,9 +121,6 @@
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/wildlife-safety/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/botanical-identification/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/fungi-identification/</loc>
