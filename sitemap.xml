@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-08-09</lastmod>
+    <lastmod>2026-08-13</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/seasonal-uses-symbolic-meanings-spiderweb-cottagecore-botanical-lore/</loc>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/seasonal-uses-and-symbolic-meanings-of-lichen-in-cottagecore-botanical-lore-and/</loc>
@@ -61,13 +65,22 @@
     <loc>https://cottagebotanica.com/tags/botanical-lore/</loc>
   </url>
   <url>
+    <loc>https://cottagebotanica.com/tags/spiderweb-symbolism/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/autumn-rituals/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/naturalist/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/seasonal-uses/</loc>
+  </url>
+  <url>
     <loc>https://cottagebotanica.com/tags/lichen-symbolism/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/summer-rituals/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/naturalist/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/botanical-uses/</loc>
