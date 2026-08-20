@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cottagebotanica.com/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-20</lastmod>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/posts/seasonal-symbolic-meanings-foxglove-cottagecore-botanical-lore/</loc>
+    <lastmod>2026-08-20</lastmod>
   </url>
   <url>
     <loc>https://cottagebotanica.com/posts/seasonal-uses-and-symbolic-meanings-of-the-enchanted-truffle/</loc>
@@ -69,13 +73,22 @@
     <loc>https://cottagebotanica.com/tags/botanical-lore/</loc>
   </url>
   <url>
+    <loc>https://cottagebotanica.com/tags/foxglove-symbolism/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/spring-celebrations/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/naturalist/</loc>
+  </url>
+  <url>
+    <loc>https://cottagebotanica.com/tags/seasonal-rituals/</loc>
+  </url>
+  <url>
     <loc>https://cottagebotanica.com/tags/autumn-rituals/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/truffle-symbolism/</loc>
-  </url>
-  <url>
-    <loc>https://cottagebotanica.com/tags/naturalist/</loc>
   </url>
   <url>
     <loc>https://cottagebotanica.com/tags/seasonal-plants/</loc>
